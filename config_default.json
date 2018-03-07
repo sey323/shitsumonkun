@@ -1,0 +1,9 @@
+{
+    "email":"@",
+    "slack_bot":{
+        "api_key":"APIキー"
+    },
+    "docomo":{
+        "api_key":"APIキー",
+      }
+}

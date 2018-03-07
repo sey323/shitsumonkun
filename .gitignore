@@ -1,0 +1,5 @@
+__pycache__
+
+# 設定ファイルetc
+config.json
+tmp*
